@@ -9,15 +9,15 @@ function App() {
   return (
     <Router>
       <div>
-        <nav>
-          <ul>
-            <li>
+      <nav className="nav-bar">
+        <ul className="nav-bar-ul">
+          <li className="nav-bar-ul-li a">
               <Link to="/">Home</Link>
             </li>
-            <li>
+            <li className="nav-bar-ul-li a">
               <Link to="/about">About</Link>
             </li>
-            <li>
+            <li className="nav-bar-ul-li a">
               <Link to="/projects">Projects</Link>
             </li>
           </ul>
