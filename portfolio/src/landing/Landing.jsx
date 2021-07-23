@@ -5,9 +5,9 @@ function Landing() {
         <div>
             <header>"And you can call me anything besides late for supper" - Bob *grand-daddy* Nichols</header>
             <br/>
-            <div>
-            <h1>Hey, I'm Grant!</h1>
-            <h3>Well I'm really Charles G. Nichols, but I go by Grant</h3>
+            <div className="landing_container">
+            <h1 className="landing_hello">Hey, I'm Grant!</h1>
+            <h4 className="landing_correction">Well I'm really <u>Charles G. Nichols</u>, but I go by Grant</h4>
             </div>
         </div>
     )
