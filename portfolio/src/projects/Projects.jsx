@@ -3,12 +3,18 @@ import React from 'react'
 function Projects() {
     return (
         <div>
-            <header>Projects</header>
-            <div>about my projects</div>
+            <header>Projects:</header>
             <br/>
-            <div>project conainer
-                <div>project 1</div>
-                <div>project 2</div>
+            <div> Thanks for your interest! Iv got a few projects that I am super proud of listed here. </div>
+            <br/>
+            <div className="project_container">
+            <br/>
+            <br/>
+                <div>This Portfolio</div>
+                <br/>
+                <div>Biggles Bottomless Emporium</div>
+                <br/>
+                <div>Space Cowboy</div>
             </div>
         </div>
     )

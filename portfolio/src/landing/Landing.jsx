@@ -3,9 +3,12 @@ import React from 'react'
 function Landing() {
     return (
         <div>
-            <header>landing</header>
+            <header>"And you can call me anything besides late for supper" - Bob *grand-daddy* Nichols</header>
             <br/>
-            <div>body welcome page</div>
+            <div>
+            <h1>Hey, I'm Grant!</h1>
+            <h3>Well I'm really Charles G. Nichols, but I go by Grant</h3>
+            </div>
         </div>
     )
 }

@@ -1,11 +1,5 @@
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link
-} from "react-router-dom";
-import logo from './logo.svg';
+import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
 import './App.css';
 import About from "./about/About"
 import Projects from './projects/Projects'
