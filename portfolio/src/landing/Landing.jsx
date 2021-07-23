@@ -1,4 +1,5 @@
 import React from 'react'
+import Me from "/Users/grant/Development/Portfolio/portfolio/src/me.png"
 
 function Landing() {
     return (
@@ -7,7 +8,8 @@ function Landing() {
             <br/>
             <div className="landing_container">
             <h1 className="landing_hello">Hey, I'm Grant!</h1>
-            <h4 className="landing_correction">Well I'm really <u>Charles G. Nichols</u>, but I go by Grant</h4>
+            <img className="landing_image" src={Me} alt="image of me"></img>
+            <h4 className="landing_correction">P.S. Well I'm really <u>Charles G. Nichols</u>, but I go by Grant</h4>
             </div>
         </div>
     )
