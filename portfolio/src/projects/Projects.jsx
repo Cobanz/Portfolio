@@ -3,7 +3,7 @@ import React from 'react'
 function Projects() {
     return (
         <div>
-            <header>Projects:</header>
+            
             <br/>
             <div> Thanks for your interest! Iv got a few projects that I am super proud of listed here. </div>
             <br/>
