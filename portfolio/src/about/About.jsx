@@ -26,10 +26,7 @@ function About() {
                 </div>
                 <br/>
                 <div className="about_personality"><b>Personality: </b>
-                I'm always up for trying something new and learning new skills. 
-                I am driven and extremely loyal to my friends/coworkers. 
-                I'm always ready to give my advice or shoulder to cry on for anyone. 
-                I build friendships fast, I love fitting in and have excellent interpersonal skills. 
+                I'm always up for trying something new and learning new skills. I am driven and extremely loyal to my friends/coworkers, as I have spent more than 5 years in every field I entered. Relationship building comes fast to me, I love fitting in and have excellent interpersonal skills, And will always be a good shoulder to cry on.
                 </div>
                 <br/>
                 <div className="about_people_say"> <b>What some people have said about me: </b>

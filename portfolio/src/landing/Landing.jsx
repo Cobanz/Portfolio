@@ -1,5 +1,5 @@
 import React from 'react'
-import Me from "/Users/grant/Development/Portfolio/portfolio/src/me.png"
+import Me from "/Users/grant/Development/Real_Portfolio/Portfolio/portfolio/src/me.png"
 
 function Landing() {
     return (
