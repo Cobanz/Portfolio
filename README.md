@@ -1,3 +1,3 @@
 # Portfolio
 
-Have a landing page with different tabs one is a hello page one is a about me page and one is a project page
+Landing page base stuff. Plan on expanding and doing lots of experiments here to push some skills and attempt to deploy again. 
